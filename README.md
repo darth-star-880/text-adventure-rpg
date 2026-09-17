@@ -1,5 +1,5 @@
 # text-adventure-rpg
-A feature-packed, text-based RPG built entirely in a single Python script as a personal coding challenge!
+A feature-packed, text-based RPG built entirely in a single Python script as a personal coding challenge!but it may still contain bugs and rough edges. Future improvements for combat and better input validation, and cleaner code organization.
 
 
 Key Features
